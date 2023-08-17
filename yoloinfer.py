@@ -9,3 +9,6 @@ for result in results:
 
 print(boxes.xywh)
 print(boxes.cls)
+
+
+##수정중
